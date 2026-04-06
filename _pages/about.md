@@ -31,25 +31,28 @@ redirect_from:
 ## Experience
 
 <details>
-  <summary><strong>Intern</strong></summary>
-  **UNNC Academic Services Office, Graduation Project Intern**  
-  *June 2025*
+  <summary><strong>Internship</strong></summary>
 
-  - Assisted with preparing, verifying, and organizing graduating students' records, including grades, awards, and archival documents.
-  - Supported coordination for graduation-related activities and certificate distribution.
+  <p><strong>UNNC Academic Services Office, Graduation Project Intern</strong><br>
+  <em>June 2025</em></p>
+  <ul>
+    <li>Assisted with preparing, verifying, and organizing graduating students' records, including grades, awards, and archival documents.</li>
+    <li>Supported coordination for graduation-related activities and certificate distribution.</li>
+  </ul>
 
-  **UNNC IT Service, Desk Technician**  
-  *September 2025 – December 2025*
+  <p><strong>UNNC IT Service, Desk Technician</strong><br>
+  <em>September 2025 – December 2025</em></p>
+  <ul>
+    <li>Provided in-person, telephone, and email support for IT-related issues raised by students and staff.</li>
+    <li>Helped resolve routine service requests while maintaining clear communication with users.</li>
+  </ul>
 
-  - Provided in-person, telephone, and email support for IT-related issues raised by students and staff.
-  - Helped resolve routine service requests while maintaining clear communication with users.
-
-  **UNNC Alumni, Data Intern**  
-  *January 2026 – May 2026*
-
-  - Analyzed, cleaned, visualized, and organized alumni donation lists and related datasets according to database requirements.
-  - Translated content for the official WeChat public account, university website news stories, and the alumni monthly newsletter.
-
+  <p><strong>UNNC Alumni, Data Intern</strong><br>
+  <em>January 2026 – May 2026</em></p>
+  <ul>
+    <li>Analyzed, cleaned, visualized, and organized alumni donation lists and related datasets according to database requirements.</li>
+    <li>Translated content for the official WeChat public account, university website news stories, and the alumni monthly newsletter.</li>
+  </ul>
 </details>
 
 
