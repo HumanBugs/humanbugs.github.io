@@ -10,17 +10,40 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Rui Yin is an undergraduate student in Statistics (2+2) at the University of Nottingham Ningbo China. Her academic interests include data analysis, visualization, machine learning, and technology-enhanced learning. She enjoys combining quantitative thinking with practical problem-solving in academic, technical, and service-oriented settings.
+👋 Hi, I'm Rui Yin, an undergraduate student in Statistics (2+2) at the University of Nottingham Ningbo China. My academic interests include data analysis and machine learning.
 
-In the 2024-2025 academic year, she achieved an average mark of 82 and received the Dean's Scholarship. Alongside coursework, she has taken part in technical projects, data-focused programs, campus service roles, and volunteer activities that strengthened her communication, organization, and analytical skills.
+You can download my CV here.
 
 ## Education
 
-- **University of Nottingham Ningbo China**, BSc in Statistics (2+2), August 2024 - June 2028
-- Average mark: **82** in 2024-2025
-- Dean's Scholarship recipient
-- Outstanding Member in the Communist Youth League of China, 2024-2025
-- Class Leader, 2025-2026
+<div style="border: 1px solid #d9d9d9; border-radius: 8px; padding: 12px 16px; margin: 8px 0; background-color: #fafafa; font-family: Arial, sans-serif; line-height: 1.5;">
+  <table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none; padding: 0;">
+        <strong>University of Nottingham Ningbo China</strong>, BSc in Statistics (2+2)
+      </td>
+      <td style="border: none; padding: 0; text-align: right; white-space: nowrap;">
+        Aug 2024 – Jun 2028
+      </td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 6px 0 0 0;">
+        • Outstanding Member of the Communist Youth League
+      </td>
+      <td style="border: none; padding: 6px 0 0 0; text-align: right; white-space: nowrap;">
+        2024 – 2025
+      </td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 4px 0 0 0;">
+        • Class Leader
+      </td>
+      <td style="border: none; padding: 4px 0 0 0; text-align: right; white-space: nowrap;">
+        2025 – 2026
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Experience
 
@@ -60,6 +83,29 @@ In the 2024-2025 academic year, she achieved an average mark of 82 and received 
 
 - Participated in an international mathematical modeling competition focused on quantitative problem-solving and teamwork.
 
+## Scholarships and Honors
+
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;"><strong>24-25 Outstanding Member in the Communist Youth League of China</strong></td>
+    <td style="text-align: right; border: none;">UNNC 2025.4</td>
+  </tr>
+</table>
+
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;"><strong>24-25 University Academic Excellence Scholarship - Dean's Scholarship</strong></td>
+    <td style="text-align: right; border: none;">UNNC 2025.12</td>
+  </tr>
+</table>
+
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;"><strong>25 Autumn NAA Scholarship - Best Performer in Course 'Data Analysis'</strong></td>
+    <td style="text-align: right; border: none;">UNNC 2025.12</td>
+  </tr>
+</table>
+
 ## Leadership and Service
 
 ### Head of Youth Service Department, Nuomi Tuantuan
@@ -67,12 +113,12 @@ In the 2024-2025 academic year, she achieved an average mark of 82 and received 
 
 - Helped organize student service activities and department coordination work.
 
-### Harmony of Music and Science
+#### Harmony of Music and Science
 *December 2024*
 
 - Assisted with venue guidance, audience flow, and stage support during the event.
 
-### Yinzhou Central Sunshine Station
+#### Yinzhou Central Sunshine Station
 *November 2024 and November 2025*
 
 - Organized and joined volunteer service activities for disabled people.
@@ -89,6 +135,7 @@ In the 2024-2025 academic year, she achieved an average mark of 82 and received 
 - MATLAB and R fundamentals
 - Machine learning fundamentals through self-study
 - LaTeX for academic writing
-- NCRE Level 2 Python Programming: **Excellent**
-- NCRE Level 2 Advanced MS Office Applications and Design: **Pass**
+- NCRE Level 2
+  - Python Programming: **Excellent**
+  - Advanced MS Office Applications and Design: **Pass**
 - CET-4: **538**

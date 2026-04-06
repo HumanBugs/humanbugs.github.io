@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rui Yin"
-description              : "Statistics undergraduate interested in data analysis, visualization, machine learning, and technology-enhanced learning."
+description              : "Statistics undergraduate interested in data analysis and machine learning."
 repository               : "humanbugs/humanbugs.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Rui Yin"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avatar.png"
   bio              : "Statistics Undergraduate"
   location         : "Ningbo, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "humanbugs" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
