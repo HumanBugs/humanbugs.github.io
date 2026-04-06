@@ -12,7 +12,10 @@ redirect_from:
 
 👋 Hi, I'm Rui Yin, an undergraduate student in Statistics (2+2) at the University of Nottingham Ningbo China. My academic interests include data analysis and machine learning.
 
+As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nottingham).
+
 <span class='anchor' id='education'></span>
+
 ## Education
 
 <div style="border: 1px solid #d9d9d9; border-radius: 8px; padding: 12px 12px; margin: 8px 0; background-color: #fafafa; font-family: Arial, sans-serif; line-height: 1.5;">
