@@ -12,8 +12,6 @@ redirect_from:
 
 👋 Hi, I'm Rui Yin, an undergraduate student in Statistics (2+2) at the University of Nottingham Ningbo China. My academic interests include data analysis and machine learning.
 
-You can download my CV here.
-
 ## Education
 
 <div style="border: 1px solid #d9d9d9; border-radius: 8px; padding: 12px 16px; margin: 8px 0; background-color: #fafafa; font-family: Arial, sans-serif; line-height: 1.5;">
@@ -26,44 +24,35 @@ You can download my CV here.
         Aug 2024 – Jun 2028
       </td>
     </tr>
-    <tr>
-      <td style="border: none; padding: 6px 0 0 0;">
-        • Outstanding Member of the Communist Youth League
-      </td>
-      <td style="border: none; padding: 6px 0 0 0; text-align: right; white-space: nowrap;">
-        2024 – 2025
-      </td>
-    </tr>
-    <tr>
-      <td style="border: none; padding: 4px 0 0 0;">
-        • Class Leader
-      </td>
-      <td style="border: none; padding: 4px 0 0 0; text-align: right; white-space: nowrap;">
-        2025 – 2026
-      </td>
-    </tr>
   </table>
 </div>
 
+
 ## Experience
 
-### UNNC Academic Services Office, Graduation Project Intern
-*June 2025*
+<details>
+  <summary><strong>Intern</strong></summary>
+  **UNNC Academic Services Office, Graduation Project Intern**  
+  *June 2025*
 
-- Assisted with preparing, verifying, and organizing graduating students' records, including grades, awards, and archival documents.
-- Supported coordination for graduation-related activities and certificate distribution.
+  - Assisted with preparing, verifying, and organizing graduating students' records, including grades, awards, and archival documents.
+  - Supported coordination for graduation-related activities and certificate distribution.
 
-### UNNC IT Service, Desk Technician
-*September 2025 - December 2025*
+  **UNNC IT Service, Desk Technician**  
+  *September 2025 – December 2025*
 
-- Provided in-person, telephone, and email support for IT-related issues raised by students and staff.
-- Helped resolve routine service requests while maintaining clear communication with users.
+  - Provided in-person, telephone, and email support for IT-related issues raised by students and staff.
+  - Helped resolve routine service requests while maintaining clear communication with users.
 
-### UNNC Alumni, Data Intern
-*January 2026 - May 2026*
+  **UNNC Alumni, Data Intern**  
+  *January 2026 – May 2026*
 
-- Analyzed, cleaned, visualized, and organized alumni donation lists and related datasets according to database requirements.
-- Translated content for the official WeChat public account, university website news stories, and the alumni monthly newsletter.
+  - Analyzed, cleaned, visualized, and organized alumni donation lists and related datasets according to database requirements.
+  - Translated content for the official WeChat public account, university website news stories, and the alumni monthly newsletter.
+
+</details>
+
+
 
 ## Projects and Activities
 
