@@ -13,10 +13,9 @@ redirect_from:
 👋 Hi, I'm Rui Yin, an undergraduate student in Statistics (2+2) at the University of Nottingham Ningbo China. My academic interests include data analysis and machine learning.
 
 <span class='anchor' id='education'></span>
-
 ## Education
 
-<div style="border: 1px solid #d9d9d9; border-radius: 8px; padding: 12px 16px; margin: 8px 0; background-color: #fafafa; font-family: Arial, sans-serif; line-height: 1.5;">
+<div style="border: 1px solid #d9d9d9; border-radius: 8px; padding: 12px 12px; margin: 8px 0; background-color: #fafafa; font-family: Arial, sans-serif; line-height: 1.5;">
   <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none; padding: 0;">
@@ -29,7 +28,7 @@ redirect_from:
   </table>
 </div>
 
-
+<span class='anchor' id='experience'></span>
 ## Experience
 
 <details>
@@ -58,7 +57,7 @@ redirect_from:
 </details>
 
 
-
+<span class='anchor' id='projects-and-activities'></span>
 ## Projects and Activities
 
 ### Learning Technologies VR Session
@@ -101,6 +100,7 @@ redirect_from:
   </tr>
 </table>
 
+<span class='anchor' id='leadership-and-service'></span>
 ## Leadership and Service
 
 ### Head of Youth Service Department, Nuomi Tuantuan
@@ -124,6 +124,8 @@ redirect_from:
 - Provided English-language communication support for international players.
 - Answered questions and explained banquet procedures and venue directions.
 
+
+<span class='anchor' id='skills'></span>
 ## Skills
 
 - Python for data analysis and visualization
