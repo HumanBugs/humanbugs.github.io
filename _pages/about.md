@@ -3,56 +3,92 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Rui Yin is an undergraduate student in Statistics (2+2) at the University of Nottingham Ningbo China. Her academic interests include data analysis, visualization, machine learning, and technology-enhanced learning. She enjoys combining quantitative thinking with practical problem-solving in academic, technical, and service-oriented settings.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+In the 2024-2025 academic year, she achieved an average mark of 82 and received the Dean's Scholarship. Alongside coursework, she has taken part in technical projects, data-focused programs, campus service roles, and volunteer activities that strengthened her communication, organization, and analytical skills.
 
+## Education
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **University of Nottingham Ningbo China**, BSc in Statistics (2+2), August 2024 - June 2028
+- Average mark: **82** in 2024-2025
+- Dean's Scholarship recipient
+- Outstanding Member in the Communist Youth League of China, 2024-2025
+- Class Leader, 2025-2026
 
-# 📝 Publications 
+## Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+### UNNC Academic Services Office, Graduation Project Intern
+*June 2025*
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- Assisted with preparing, verifying, and organizing graduating students' records, including grades, awards, and archival documents.
+- Supported coordination for graduation-related activities and certificate distribution.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+### UNNC IT Service, Desk Technician
+*September 2025 - December 2025*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- Provided in-person, telephone, and email support for IT-related issues raised by students and staff.
+- Helped resolve routine service requests while maintaining clear communication with users.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+### UNNC Alumni, Data Intern
+*January 2026 - May 2026*
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Analyzed, cleaned, visualized, and organized alumni donation lists and related datasets according to database requirements.
+- Translated content for the official WeChat public account, university website news stories, and the alumni monthly newsletter.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## Projects and Activities
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+### Learning Technologies VR Session
+*February 2025 - May 2025*
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Built a Unity-based AR project with book cover recognition and interactive book introduction displays.
+
+### Data Scholarship
+*September 2025 - December 2025*
+
+- Conducted data analysis and visualization with Python.
+- Received the **Best Performer** award in the final presentation.
+
+### The Mathematical Contest in Modeling (MCM)
+*February 2026*
+
+- Participated in an international mathematical modeling competition focused on quantitative problem-solving and teamwork.
+
+## Leadership and Service
+
+### Head of Youth Service Department, Nuomi Tuantuan
+*CCYL of Science and Engineering, UNNC*
+
+- Helped organize student service activities and department coordination work.
+
+### Harmony of Music and Science
+*December 2024*
+
+- Assisted with venue guidance, audience flow, and stage support during the event.
+
+### Yinzhou Central Sunshine Station
+*November 2024 and November 2025*
+
+- Organized and joined volunteer service activities for disabled people.
+
+### 2025 Ningbo Open, Player Banquet Interpreter Volunteer
+*October 12, 2025*
+
+- Provided English-language communication support for international players.
+- Answered questions and explained banquet procedures and venue directions.
+
+## Skills
+
+- Python for data analysis and visualization
+- MATLAB and R fundamentals
+- Machine learning fundamentals through self-study
+- LaTeX for academic writing
+- NCRE Level 2 Python Programming: **Excellent**
+- NCRE Level 2 Advanced MS Office Applications and Design: **Pass**
+- CET-4: **538**
