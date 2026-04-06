@@ -12,6 +12,8 @@ redirect_from:
 
 👋 Hi, I'm Rui Yin, an undergraduate student in Statistics (2+2) at the University of Nottingham Ningbo China. My academic interests include data analysis and machine learning.
 
+<span class='anchor' id='education'></span>
+
 ## Education
 
 <div style="border: 1px solid #d9d9d9; border-radius: 8px; padding: 12px 16px; margin: 8px 0; background-color: #fafafa; font-family: Arial, sans-serif; line-height: 1.5;">
@@ -75,6 +77,7 @@ redirect_from:
 
 - Participated in an international mathematical modeling competition focused on quantitative problem-solving and teamwork.
 
+<span class='anchor' id='scholarships'></span>
 ## Scholarships and Honors
 
 <table style="border: none; border-collapse: collapse;">

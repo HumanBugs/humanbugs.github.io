@@ -12,6 +12,9 @@ main:
   - title: "Projects"
     url: "/#projects-and-activities"
 
+  - title: "Scholarship"
+    url: "/#scholarships"
+
   - title: "Leadership"
     url: "/#leadership-and-service"
 
