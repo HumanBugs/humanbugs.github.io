@@ -14,6 +14,8 @@ redirect_from:
 
 As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nottingham).
 
+Download my resume [here](https://github.com/HumanBugs/humanbugs.github.io/raw/main/files/Resume.pdf).
+
 <span class='anchor' id='education'></span>
 
 ## Education
@@ -28,6 +30,7 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
         Aug 2024 – Jun 2028
       </td>
     </tr>
+    # 这里还要加Transcript下载链接
   </table>
 </div>
 
