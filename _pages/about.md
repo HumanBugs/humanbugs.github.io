@@ -14,28 +14,27 @@ redirect_from:
 
 As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nottingham).
 
-Download my resume [here](https://github.com/HumanBugs/humanbugs.github.io/raw/main/files/Resume.pdf).
+[📃 Download my resume here](https://github.com/HumanBugs/humanbugs.github.io/raw/main/files/Resume.pdf).
 
 <span class='anchor' id='education'></span>
 
 ## Education
 
-<div style="border: 1px solid #d9d9d9; border-radius: 8px; padding: 12px 12px; margin: 8px 0; background-color: #fafafa; font-family: Arial, sans-serif; line-height: 1.5;">
-  <table style="width: 100%; border-collapse: collapse; border: none;">
-    <tr>
-      <td style="border: none; padding: 0;">
-        <strong>University of Nottingham Ningbo China</strong>, BSc in Statistics (2+2)
-      </td>
-      <td style="border: none; padding: 0; text-align: right; white-space: nowrap;">
-        Aug 2024 – Jun 2028
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="border: none; padding: 4px 0 0 0;">
-        <a href="https://github.com/HumanBugs/humanbugs.github.io/raw/main/files/Transcript.pdf" target="_blank">Transcript</a>
-      </td>
-    </tr>
-  </table>
+<div style="border: 1px solid #d9d9d9; border-radius: 8px; padding: 18px 24px; margin: 8px 0; background-color: #fafafa; font-family: Arial, sans-serif; line-height: 1.4;">
+  <div style="display: flex; justify-content: space-between; align-items: baseline; gap: 16px;">
+    <div>
+      <strong>University of Nottingham Ningbo China</strong>, BSc in Statistics (2+2)
+    </div>
+    <div style="white-space: nowrap; text-align: right;">
+      Aug 2024 – Jun 2028
+    </div>
+  </div>
+
+  <div style="margin-top: 8px;">
+    <a href="https://github.com/HumanBugs/humanbugs.github.io/raw/main/files/Transcript.pdf" target="_blank" style="text-decoration: underline;">
+      📃 Transcript
+    </a>
+  </div>
 </div>
 
 <span class='anchor' id='experience'></span>
@@ -124,7 +123,7 @@ Download my resume [here](https://github.com/HumanBugs/humanbugs.github.io/raw/m
 - Helped organize student service activities and department coordination work.
 
 <details>
-  <summary><strong>My Service in Nuomi Tuantuan</strong></summary>
+  <summary><strong>Selected Service Activities</strong></summary>
   <p><strong>Harmony of Music and Science</strong><br>
   <em>December 2024</em></p>
   <ul>
