@@ -181,7 +181,7 @@ I am self-studying machine learning by following Andrew Ng's course online.
 <span class='anchor' id='certificates'></span>
 
 ## Certificates
-- NCRE Level 2
+- National Computer Rank Examination (NCRE) Level 2
   - Python Programming: **Excellent**
   - Advanced MS Office Applications: **Pass**
 - CET-4: **538**
