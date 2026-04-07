@@ -107,3 +107,14 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+details {
+    margin-bottom: 1em;
+}
+
+details .details-content {
+    margin-top: 0.6em;
+    padding: 0.8em 1em;
+    border-left: 3px solid #999;
+    background: #f8f8f8;
+}

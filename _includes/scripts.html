@@ -1,4 +1,28 @@
 <script src="assets/js/main.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("details").forEach(function (details) {
+      if (details.querySelector(":scope > .details-content")) {
+        return;
+      }
+
+      var content = document.createElement("div");
+      content.className = "details-content";
+
+      Array.from(details.childNodes).forEach(function (node) {
+        if (node.nodeType === Node.ELEMENT_NODE && node.tagName.toLowerCase() === "summary") {
+          return;
+        }
+
+        content.appendChild(node);
+      });
+
+      if (content.childNodes.length > 0) {
+        details.appendChild(content);
+      }
+    });
+  });
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

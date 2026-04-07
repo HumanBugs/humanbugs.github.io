@@ -93,44 +93,20 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
 <span class='anchor' id='scholarships'></span>
 ## Scholarships and Honors
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; width: 100%; margin: 0;">
   <tr style="border: none;">
-    <td style="border: none;"><strong>24-25 Outstanding Member in the Communist Youth League of China</strong></td>
-    <td style="text-align: right; border: none;">UNNC 2025.4</td>
+    <td style="border: none; padding: 0;"><strong>24-25 Outstanding Member in the Communist Youth League of China</strong></td>
+    <td style="text-align: right; border: none; padding: 0;">UNNC 2025.4</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 0;"><strong>24-25 University Academic Excellence Scholarship - Dean's Scholarship</strong></td>
+    <td style="text-align: right; border: none; padding: 0;">UNNC 2025.12</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 0;"><strong>25 Autumn NAA Scholarship - Best Performer in Course 'Data Analysis'</strong></td>
+    <td style="text-align: right; border: none; padding: 0;">UNNC 2025.12</td>
   </tr>
 </table>
-
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none;"><strong>24-25 University Academic Excellence Scholarship - Dean's Scholarship</strong></td>
-    <td style="text-align: right; border: none;">UNNC 2025.12</td>
-  </tr>
-</table>
-
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none;"><strong>25 Autumn NAA Scholarship - Best Performer in Course 'Data Analysis'</strong></td>
-    <td style="text-align: right; border: none;">UNNC 2025.12</td>
-  </tr>
-</table>
-
-<details>
-  <summary><strong>Activities</strong></summary>
-
-  <div style="margin-top: 0.6em; padding: 0.8em 1em; border-left: 3px solid #999; background: #f8f8f8;">
-    <p><strong>Harmony of Music and Science</strong><br>
-    <em>December 2024</em></p>
-    <ul>
-      <li>Assisted with venue guidance, audience flow, and stage support during the event.</li>
-    </ul>
-
-    <p><strong>Yinzhou Central Sunshine Station</strong><br>
-    <em>November 2024 and November 2025</em></p>
-    <ul>
-      <li>Organized and joined volunteer service activities for disabled people.</li>
-    </ul>
-  </div>
-</details>
 
 <span class='anchor' id='leadership-and-service'></span>
 ## Leadership and Service
