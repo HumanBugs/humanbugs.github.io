@@ -114,6 +114,24 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
   </tr>
 </table>
 
+<details>
+  <summary><strong>Activities</strong></summary>
+
+  <div style="margin-top: 0.6em; padding: 0.8em 1em; border-left: 3px solid #999; background: #f8f8f8;">
+    <p><strong>Harmony of Music and Science</strong><br>
+    <em>December 2024</em></p>
+    <ul>
+      <li>Assisted with venue guidance, audience flow, and stage support during the event.</li>
+    </ul>
+
+    <p><strong>Yinzhou Central Sunshine Station</strong><br>
+    <em>November 2024 and November 2025</em></p>
+    <ul>
+      <li>Organized and joined volunteer service activities for disabled people.</li>
+    </ul>
+  </div>
+</details>
+
 <span class='anchor' id='leadership-and-service'></span>
 ## Leadership and Service
 
@@ -124,17 +142,17 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
 
 <details>
   <summary><strong>Activities</strong></summary>
+  <p><strong>Harmony of Music and Science</strong><br>
+  <em>December 2024</em></p>
+  <ul>
+    <li>Assisted with venue guidance, audience flow, and stage support during the event.</li>
+  </ul>
 
-  #### Harmony of Music and Science
-  *December 2024*
-
-  - Assisted with venue guidance, audience flow, and stage support during the event.
-
-  #### Yinzhou Central Sunshine Station
-  *November 2024 and November 2025*
-
-  - Organized and joined volunteer service activities for disabled people.
-
+  <p><strong>Yinzhou Central Sunshine Station</strong><br>
+  <em>November 2024 and November 2025</em></p>
+  <ul>
+    <li>Organized and joined volunteer service activities for disabled people.</li>
+  </ul>
 </details>
 
 ### 2025 Ningbo Open, Player Banquet Interpreter Volunteer
