@@ -62,7 +62,7 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
 
 <details>
   <summary><strong>Off-campus Internship</strong></summary>
-  <p><strong>China Merchants Bank (Shaoxing, Keqiao)</strong>
+  <p><strong>China Merchants Bank (Shaoxing, Keqiao)</strong><br>
   <em>July 2025</em></p>
   <ul>
     <li>Assisted with fund allocation analysis and market trend research.</li>
@@ -117,7 +117,7 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
 - Helped organize student service activities and department coordination work.
 
 <details>
-  <summary><strong>Activities</strong></summary>
+  <summary><strong>My Service in Nuomi Tuantuan</strong></summary>
   <p><strong>Harmony of Music and Science</strong><br>
   <em>December 2024</em></p>
   <ul>
