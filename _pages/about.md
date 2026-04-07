@@ -35,7 +35,7 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
 ## Experience
 
 <details>
-  <summary><strong>Internship</strong></summary>
+  <summary><strong>On-campus Internship</strong></summary>
 
   <p><strong>UNNC Academic Services Office, Graduation Project Intern</strong><br>
   <em>June 2025</em></p>
@@ -60,6 +60,17 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
 </details>
 
 
+<details>
+  <summary><strong>Off-campus Internship</strong></summary>
+  <p><strong>China Merchants Bank (Shaoxing, Keqiao)</strong>
+  <em>July 2025</em></p>
+  <ul>
+    <li>Assisted with fund allocation analysis and market trend research.</li>
+  </ul>
+</details>
+
+
+
 <span class='anchor' id='projects-and-activities'></span>
 ## Projects and Activities
 
@@ -77,7 +88,7 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
 ### The Mathematical Contest in Modeling (MCM)
 *February 2026*
 
-- Participated in an international mathematical modeling competition focused on quantitative problem-solving and teamwork.
+- Award will be released on May 2026.
 
 <span class='anchor' id='scholarships'></span>
 ## Scholarships and Honors
@@ -111,15 +122,20 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
 
 - Helped organize student service activities and department coordination work.
 
-#### Harmony of Music and Science
-*December 2024*
+<details>
+  <summary><strong>Activities</strong></summary>
 
-- Assisted with venue guidance, audience flow, and stage support during the event.
+  #### Harmony of Music and Science
+  *December 2024*
 
-#### Yinzhou Central Sunshine Station
-*November 2024 and November 2025*
+  - Assisted with venue guidance, audience flow, and stage support during the event.
 
-- Organized and joined volunteer service activities for disabled people.
+  #### Yinzhou Central Sunshine Station
+  *November 2024 and November 2025*
+
+  - Organized and joined volunteer service activities for disabled people.
+
+</details>
 
 ### 2025 Ningbo Open, Player Banquet Interpreter Volunteer
 *October 12, 2025*
