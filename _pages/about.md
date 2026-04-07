@@ -30,7 +30,11 @@ Download my resume [here](https://github.com/HumanBugs/humanbugs.github.io/raw/m
         Aug 2024 – Jun 2028
       </td>
     </tr>
-    # 这里还要加Transcript下载链接
+    <tr>
+      <td colspan="2" style="border: none; padding: 4px 0 0 0;">
+        <a href="https://github.com/HumanBugs/humanbugs.github.io/raw/main/files/Transcript.pdf" target="_blank">Transcript</a>
+      </td>
+    </tr>
   </table>
 </div>
 
