@@ -10,9 +10,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 Hi, I'm Rui Yin, an undergraduate student in Statistics (2+2) at the University of Nottingham Ningbo China (UNNC). My academic interests include data analysis and machine learning. I am self-studying machine learning by following Andrew Ng's course online.
+👋 Hi, I'm Rui Yin, an undergraduate student in Statistics (2+2) at the University of Nottingham Ningbo China (UNNC). My academic interests include data analysis and machine learning.
 
 As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nottingham). I am currently Year 2.
+
+I am self-studying machine learning by following Andrew Ng's course online.
 
 [📃 Download my resume here](https://github.com/HumanBugs/humanbugs.github.io/raw/main/files/Resume.pdf).
 
