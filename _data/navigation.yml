@@ -20,3 +20,6 @@ main:
 
   - title: "Skills"
     url: "/#skills"
+
+  - title: "Certificates"
+    url: "/#certificates"

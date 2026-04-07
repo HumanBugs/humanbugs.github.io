@@ -10,9 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 Hi, I'm Rui Yin, an undergraduate student in Statistics (2+2) at the University of Nottingham Ningbo China. My academic interests include data analysis and machine learning.
+👋 Hi, I'm Rui Yin, an undergraduate student in Statistics (2+2) at the University of Nottingham Ningbo China (UNNC). My academic interests include data analysis and machine learning. I am self-studying machine learning by following Andrew Ng's course online.
 
-As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nottingham).
+As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nottingham). I am currently Year 2.
 
 [📃 Download my resume here](https://github.com/HumanBugs/humanbugs.github.io/raw/main/files/Resume.pdf).
 
@@ -143,14 +143,42 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
 - Provided English-language communication support for international players.
 - Answered questions and explained banquet procedures and venue directions.
 
+### food isla
+*A project group under the Fufeng Project, UNNC*
+
+- Organize food-themed workshops to explore the developmental food activities for a diverse world and create bond between global cultures and local urban communities in Ningbo.
+- Work group member for 2025 UNNC Environmental Sustainability Week.
+
+<details>
+  <summary><strong>Selected Service Activities</strong></summary>
+  <p><strong>Workshop</strong> Tsampa, Ghee and Pocha<br>
+  <em>April 2025</em></p>
+  <ul>
+    <li>Proposal writing, material procurement and activities engagement.</li>
+  </ul>
+
+  <p><strong>Popup kitchen in Spring Meet up Festival</strong><br>
+  <em>May 2025</em></p>
+  <ul>
+    <li>Supported venue setup and stall decoration for the event.</li>
+    <li>Helped operate the food stall, contributing to RMB 1972 in revenue and more than 100 customer visits.</li>
+  </ul>
+</details>
+
 
 <span class='anchor' id='skills'></span>
+
 ## Skills
 
 - Python for data analysis and visualization
 - MATLAB and R fundamentals
 - Machine learning fundamentals through self-study
 - LaTeX for academic writing
+
+
+<span class='anchor' id='certificates'></span>
+
+## Certificates
 - NCRE Level 2
   - Python Programming: **Excellent**
   - Advanced MS Office Applications and Design: **Pass**
