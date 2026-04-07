@@ -181,5 +181,5 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
 ## Certificates
 - NCRE Level 2
   - Python Programming: **Excellent**
-  - Advanced MS Office Applications and Design: **Pass**
+  - Advanced MS Office Applications: **Pass**
 - CET-4: **538**
