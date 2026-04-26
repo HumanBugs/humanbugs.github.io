@@ -185,3 +185,7 @@ I am self-studying machine learning by following Andrew Ng's course online.
   - Python Programming: **Excellent**
   - Advanced MS Office Applications: **Pass**
 - CET-4: **538**
+
+
+
+[Privacy and Policy of Google Analytics](https://support.google.com/analytics/answer/7318509?hl=en)
