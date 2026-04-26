@@ -187,5 +187,6 @@ I am self-studying machine learning by following Andrew Ng's course online.
 - CET-4: **538**
 
 
-
-[Privacy and Policy of Google Analytics](https://support.google.com/analytics/answer/7318509?hl=en)
+## Acknowledgements & Privacy
+This homepage was forked & modified from [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).
+Privacy Policy of [Google Analytics](https://support.google.com/analytics/answer/7318509?hl=en)
