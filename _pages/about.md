@@ -96,7 +96,8 @@ I am self-studying machine learning by following Andrew Ng's course online.
 ### The Mathematical Contest in Modeling (MCM)
 *February 2026*
 
-- Award will be released on May 2026.
+- Team 2628509, Problem A
+- Honorable Mention
 
 <span class='anchor' id='scholarships'></span>
 ## Scholarships and Honors
