@@ -16,7 +16,7 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
 
 I am self-studying machine learning by following Andrew Ng's course online.
 
-[📃 Download my resume here](https://github.com/HumanBugs/humanbugs.github.io/raw/main/files/Resume.pdf).
+[📃 Download my resume here](https://github.com/HumanBugs/humanbugs.github.io/raw/main/files/Resume.pdf). *Last Update: April 7th, 2026.*
 
 <span class='anchor' id='education'></span>
 
