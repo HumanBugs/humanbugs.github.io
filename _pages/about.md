@@ -182,10 +182,11 @@ I am self-studying machine learning by following Andrew Ng's course online.
 <span class='anchor' id='certificates'></span>
 
 ## Certificates
-- National Computer Rank Examination (NCRE) Level 2
+- [National Computer Rank Examination (NCRE)](https://ncre.neea.edu.cn/) Level 2
   - Python Programming: **Excellent**
   - Advanced MS Office Applications: **Pass**
-- CET-4: **538**
+- [CET-4](https://cet.neea.edu.cn/): **538**
+- [CET-6](https://cet.neea.edu.cn/): Not Released Yet
 
 
 ## Acknowledgements & Privacy
