@@ -16,7 +16,7 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
 
 I am a visiting student in Shenzhen Bay Laboratory (SZBL) from June 2026 to September 2026.
 
-[📃 Download my resume here](https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/files/Resume.pdf). *Last Update: April 7th, 2026.*
+[📃 Download my resume here](https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/files/Resume.pdf). *Last Update: September 28th, 2026.*
 
 <span class='anchor' id='education'></span>
 
@@ -48,6 +48,11 @@ I am a visiting student in Shenzhen Bay Laboratory (SZBL) from June 2026 to Sept
   <p><strong>Shenzhen Bay Laboratory (SZBL) - SMART</strong><br>
   <em>June - September 2026</em></p>
 
+  <ul>
+    <li>Optimized models on predicting EPIs (enhancer-promoter-interactions) and gene expression levels.</li>
+    <li>Quantified subcellular transcript co-localization and characterized local spatial regulatory features.</li>
+  </ul>
+  
 </details>
 
 <details>
@@ -202,10 +207,8 @@ I am a visiting student in Shenzhen Bay Laboratory (SZBL) from June 2026 to Sept
 
 [Profile.json](https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/files/Profile.json)
 
-Projects.json
-
 ## Acknowledgements & Privacy
-This website is still under constructing. Sorry for the missing or outdated information. Last Update: August 24th, 2026.
+This website is still under constructing. Sorry for the missing or outdated information. Last Update: September 28th, 2026.
 
 This homepage was forked & modified from [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).
 
