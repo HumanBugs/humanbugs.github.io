@@ -135,6 +135,7 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
 *CCYL of Science and Engineering, UNNC*
 
 - Helped organize student service activities and department coordination work.
+- Hosted the 2025 Opening Ceremony of the University of Nottingham Ningbo China (UNNC).
 
 <details>
   <summary><strong>Selected Service Activities</strong></summary>
