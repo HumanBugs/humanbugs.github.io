@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "profile_type": "personal_academic_profile",
   "language": "en",
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-09-28",
   "source": {
     "title": "Rui Yin - About",
     "url": "https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/_pages/about.md",
@@ -16,7 +16,7 @@
       "Data analysis",
       "Machine learning"
     ],
-    "summary": "Rui Yin is a Year 3 undergraduate student in the University of Nottingham's 2+2 BSc Statistics programme, studying across the Ningbo China and UK campuses. Rui is also a visiting student at Shenzhen Bay Laboratory from June to September 2026."
+    "summary": "Rui Yin is a Year 3 (Year 2 in UK) undergraduate student in the University of Nottingham's 2+2 BSc Statistics programme, studying across the Ningbo China and UK campuses."
   },
   "education": [
     {
@@ -30,8 +30,8 @@
       "programme": "2+2",
       "start_date": "2024-08",
       "expected_end_date": "2028-06",
-      "status_as_of_last_updated": "Year 3; Years 3 and 4 are to be completed at the University of Nottingham UK",
-      "transcript_url": "https://github.com/HumanBugs/humanbugs.github.io/raw/main/files/Transcript.pdf"
+      "status_as_of_last_updated": "Year 3 (Year 2 in UK); Years 3 and 4 are to be completed at the University of Nottingham UK",
+      "transcript_url": "https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/files/Transcript.pdf"
     }
   ],
   "experience": {
@@ -41,7 +41,11 @@
         "unit": "SMART",
         "role": "Visiting student",
         "start_date": "2026-06",
-        "end_date": "2026-09"
+        "end_date": "2026-09",
+        "responsibilities": [
+          "Optimized models on predicting EPIs (enhancer-promoter-interactions) and gene expression levels.",
+          "Quantified subcellular transcript co-localization and characterized local spatial regulatory features."
+        ]
       }
     ],
     "on_campus_internships": [
@@ -258,7 +262,7 @@
   ],
   "resources": {
     "resume_url": "https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/files/Resume.pdf",
-    "resume_last_updated": "2026-04-07",
+    "resume_last_updated": "2026-09-28",
     "transcript_url": "https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/files/Transcript.pdf",
     "about_markdown_url": "https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/_pages/about.md",
     "profile_json_url": "https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/files/Profile.json"
