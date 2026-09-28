@@ -12,9 +12,7 @@ redirect_from:
 
 👋 Hi, I'm Rui Yin, an undergraduate student in Statistics (2+2) at the University of Nottingham (UoN, UK). My academic interests include data analysis and machine learning.
 
-As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nottingham). I am currently Year 3.
-
-I am a visiting student in Shenzhen Bay Laboratory (SZBL) from June 2026 to September 2026.
+As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nottingham). I am currently Year 3 (Year 2 in UK).
 
 [📃 Download my resume here](https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/files/Resume.pdf). *Last Update: September 28th, 2026.*
 
