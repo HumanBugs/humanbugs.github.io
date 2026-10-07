@@ -16,6 +16,8 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
 
 [📃 Download my resume here](https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/files/Resume.pdf). *Last Update: September 28th, 2026.*
 
+[🌏 My Linkedin Homepage](https://www.linkedin.com/in/%E7%9D%BF-%E5%B0%B9-248635362/)
+
 <span class='anchor' id='education'></span>
 
 ## Education
@@ -135,7 +137,7 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
 *CCYL of Science and Engineering, UNNC*
 
 - Helped organize student service activities and department coordination work.
-- Hosted the 2025 Opening Ceremony of the University of Nottingham Ningbo China (UNNC).
+- University of Nottingham Ningbo China 2026 Opening Ceremony Speaker (English).
 
 <details>
   <summary><strong>Selected Service Activities</strong></summary>
